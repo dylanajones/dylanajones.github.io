@@ -7,7 +7,6 @@ date: 2017-06-26
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/7959079/'
 citation: 'D. Jones and G. Hollinger, &quot;Planning energy-efficient trajectories in strong disturbances&quot; <i>IEEE Robotics and Automation Letters</i>, vol. 2, no. 4, pp. 2080-2087, Oct. 2017'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
