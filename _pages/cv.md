@@ -9,23 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+[link to .pdf version of CV](https://dylanajones.github.io/files/cv-08-27-2017.pdf)
+[link to .pdf version of Resume](https://dylanajones.github.io/files/resume.pdf)
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Mechanical Engineering, Tufts University, 2015
+* Ph.D in Robotics, Oregon State University, 2020 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2015 - Present: Doctoral Research Assistant
+  * Oregon State University
+  * Worked on algorithms and techniques for path planning for marine vehicles in strong disturbances. Currently working on methods for combining control and path planning to improve path realizability.
+  * Supervisor: Professor Geoff Hollinger
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+=====
+* June 2013 - Sep 2013 + Aug 2014 - Apr 2015: New England Hydropower Company, Intern + Site Designer 
+  * Created a parameterized model of a hydropower generator to allow for quicker installation site modeling
+  * Interacted with both clients and governmental agencies to obtain information about installation sites
+
+* Sep 2011 - May 2015: Pachyderm  Creations, Data Manager and Developer
+  * Managed data input and used that data to create visually pleasing Microsoft Excel workbooks
+
+* Jun 2014 - Aug 2014: Parker Chromerics, Intern
+  * Tested materials for both physical and EMI shielding properties using ASTM standards
+  * Designed and tested processing parameters and procedures for extrusion machinery on a manufacturing floor
+
+Awards
+=====
+* 2016 - NSF GRFP Honorable Mention 
+* 2015 - O’Leary Design Award for Top Senior Design Project
+* 2014 - Daniel V. Byrne, E76, Endowed Scholarship
+* 2013 - Daniel V. Byrne, E76, Endowed Scholarship
+
   
 Skills
 ======
