@@ -8,7 +8,7 @@ venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/7959079/'
 citation: 'D. Jones and G. Hollinger, &quot;Planning energy-efficient trajectories in strong disturbances&quot; <i>IEEE Robotics and Automation Letters</i>, vol. 2, no. 4, pp. 2080-2087, Oct. 2017'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We present a framework for planning energy-efficient trajectories through strong and uncertain disturbances, such as ocean currents and wind fields.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
