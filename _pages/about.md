@@ -13,7 +13,7 @@ I am a PhD Candidate in my 3rd year at Oregon State University studying Robotics
 Research Interest
 ======
 
-I am interested in the intersection between path planning and control.
+I am interested in the intersection between path planning and control. 
 
 Personal
 ======

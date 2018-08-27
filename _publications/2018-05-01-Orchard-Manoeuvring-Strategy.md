@@ -1,5 +1,5 @@
 ---
-title: "Orchard manoeuvring strategy for a robotic bin-handling machine"
+title: "Orchard Manoeuvring Strategy for a Robotic Bin-Handling Machine"
 collection: publications
 permalink: /publication/bin-dog-paper-2
 excerpt: 'This paper is about how to coordinate different steering strategies for a system with four independent wheels in an orchard environment.'
@@ -11,5 +11,3 @@ citation: 'Y. Ye, L. He, Z. Wang, D. Jones, G. Hollinger, M. Taylor, and Q. Zhan
 This paper is about how to coordinate different steering strategies for a system with four independent wheels in an orchard environment.
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1537511016308571)
-
-Recommended citation: Y. Ye, L. He, Z. Wang, D. Jones, G. Hollinger, M. Taylor, and Q. Zhang, "Orchard manoeuvring strategy for a robotic bin-handling machine,"" <i>Biosystems Engineering<i>, vol. 169, pp. 85-103, May 2018
