@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[link to .pdf version of CV](https://dylanajones.github.io/files/cv-08-27-2017.pdf)       
+[link to .pdf version of CV](https://dylanajones.github.io/files/CV.pdf)       
 
 [link to .pdf version of Resume](https://dylanajones.github.io/files/resume.pdf)
 
