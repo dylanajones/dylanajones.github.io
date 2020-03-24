@@ -3,7 +3,7 @@ title: "Coordinating Underwater Vehicle Teams to Conduct Large-Scale Geospatial 
 collection: publications
 permalink: /publication/2020-03-30-Coordinating-Underwater-Vehicle-Teams-to-Conduct-Large-Scale-Geospatial-Tasks
 excerpt: 'In this work, we examine the problem of coordinating large teams of unmanned underwater vehicles with low levels of actuation using both policy and optimization based methods.'
-date: Under Review
+date: 2020-03-30
 venue: 'Journal of Ocean Engineering'
 citation: 'M. Kuhlman, D. Jones, D. Sofge, G. Hollinger and S. Gupta, &quot;Coordinating Underwater Vehicle Teams to Conduct Large-Scale Geospatial Tasks,&quot; Under Review in <i>Journal of Ocean Engineering</i>'
 ---
