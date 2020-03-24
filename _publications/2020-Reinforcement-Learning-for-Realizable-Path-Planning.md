@@ -1,0 +1,10 @@
+---
+title: "Realizable Path Execution Through Reinforcement Learning"
+collection: publications
+permalink: /publication/2020-Realizable-Path-Execution-Through-Reinforcement-Learning
+excerpt: 'In this work, we present a Reinforment Learning (RL) framework for decreasing the distance between the path planned and the path executed by a robot.'
+date: 2020-03-01
+venue: 'Robotics: Science and Systems (RSS)'
+citation: 'D. Jones and G. Hollinger, &quot;Realizable Path Execution Through Reinforcement Learning,&quot; Under Review for <i>Robotics: Science and Systems</i> (RSS) 2020'
+---
+In this work, we address the problem of minimizing the distance between the path planned by a robot and the path that the robot performs during execution. We introduce the Realizable Path Execution Problem and propose a reinforcement learning algorithm to compute policies that allow the robot to minimize the distance between the planned and executed path. Alongside this algorithm, we introduce a novel path independent state representation that allows the policy to generalize to different path configurations, and propose four state-action value functions which enable the reinforcement learning algorithm to discover policies capable of solving this task. The efficacy of our algorithm, state representation, and value functions are shown through extensive simulations, where we show up to a 37~\% reduction in the distance between the planned and executed path compared to a default controller. In addition to these simulation results, the high-level action representation used in our formulation allows for a successful sim-to-real transfer with no additional training. This is confirmed through field trials on a lake with a Platypus Lutra autonomous boat where a policy trained only in simulation is able to offer an average of 21~\% reduction in distance between the planned and executed paths versus the default onboard controller.
