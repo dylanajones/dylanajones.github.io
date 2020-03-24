@@ -71,9 +71,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* 2018 - Safety Inspector / Design Judge for Oregon Regional MATE ROV Competition
+* 2018, 2019 - Safety Inspector / Design Judge for Oregon Regional MATE ROV Competition
+* 2017 - 2020 - Grad Student Host for Prospective Grad Students
 * Tufts Admission Interviewer
 * Tufts Tau Beta Pi secretary
 * Tufts Engineering Mentors founding member
+* Tufts Club Soccer Team Captain
+* Tufts Board Game Club Treasurer and Founding Member
