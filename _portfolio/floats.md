@@ -1,5 +1,5 @@
 ---
 title: "Limited Control Authority"
-excerpt: "We were interested in examining how to plan for vehicles with low actuation relative to the disturbances in the environment. I developed a Stochastic Gradient Ascent (SGA) algorithm to plan for this class of vehicle. Additionally, we were interested in how we could use a team of these vehicles to gather information over large time and distance scales. <br/><img src='/images/full_inset.png'>"
+excerpt: "We were interested in examining how to plan for vehicles with low actuation relative to the disturbances in the environment. I developed a Stochastic Gradient Ascent (SGA) algorithm to plan for this class of vehicle. Additionally, we were interested in how we could use a team of these vehicles to gather information over large time and distance scales. The image below shows an illustration of what our algorithm planned over a simulated information field (yellow is higher information) of the Gulf of Mexico. The yellow vehicle is able to use the currents to move from an area of low information into an area of high information while the red vehicle was swept away from high information by the currents. Our algorithm enabled vehicles to leverage the currents to find more information. <br/><img src='/images/full_inset.png'>"
 collection: portfolio
 ---
