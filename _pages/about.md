@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in my 5th year at Oregon State University studying Robotics. I am a Research Assitant in the [Robotic Decision Making Laboratory](http://research.engr.oregonstate.edu/rdml/home) under Geoff Hollinger. I grew up in Portland, OR and went to undergrad at Tufts University in Medford, MA where I recieved a Bachalors of Science in Mechanical Engineering.
+I am a PhD Candidate in my 5th year at Oregon State University studying Robotics. I am a Research Assitant in the [Robotic Decision Making Laboratory](http://research.engr.oregonstate.edu/rdml/home) under Geoff Hollinger. I grew up in Portland, OR and went to undergrad at Tufts University in Medford, MA where I recieved a Bachelors of Science in Mechanical Engineering.
 
 Research Interest
 ======
